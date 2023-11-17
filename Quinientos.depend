@@ -1,0 +1,441 @@
+# depslib dependency file v1.0
+1698519986 source:c:\users\agusb\onedrive - frgp.utn.edu.ar\programacion\quinientos 2\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1698520018 source:c:\users\agusb\onedrive - frgp.utn.edu.ar\programacion\quinientos 2\quinientos\funciones.cpp
+	<iostream>
+	"rlutil.h"
+
+1688942169 c:\users\agusb\onedrive - frgp.utn.edu.ar\programacion\quinientos 2\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698518471 c:\users\agusb\onedrive - frgp.utn.edu.ar\programacion\quinientos 2\quinientos\funciones.h
+
+1699978375 source:c:\users\gusta\desktop\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1699977663 c:\users\gusta\desktop\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699977663 source:c:\users\gusta\desktop\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1699977663 c:\users\gusta\desktop\quinientos\funciones.h
+
+1698810442 source:c:\users\agusb\onedrive\desktop\quinientos\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+
+1698804922 c:\users\agusb\onedrive\desktop\quinientos\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698810349 source:c:\users\agusb\onedrive\desktop\quinientos\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1698804922 c:\users\agusb\onedrive\desktop\quinientos\quinientos\funciones.h
+
+1698770277 source:c:\users\win10\desktop\clon proyecto dados\quinientos 2\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+
+1698770277 c:\users\win10\desktop\clon proyecto dados\quinientos 2\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698770277 source:c:\users\win10\desktop\clon proyecto dados\quinientos 2\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1698770277 c:\users\win10\desktop\clon proyecto dados\quinientos 2\quinientos\funciones.h
+
+1698972513 source:c:\users\agusb\onedrive\desktop\lab\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1698866427 c:\users\agusb\onedrive\desktop\lab\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698967627 source:c:\users\agusb\onedrive\desktop\lab\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	"funciones.h"
+
+1698971712 c:\users\agusb\onedrive\desktop\lab\quinientos\funciones.h
+
+1699483548 source:c:\users\agusb\onedrive\desktop\lab\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	"funciones.h"
+
+1699045652 c:\users\agusb\onedrive\desktop\lab\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699483068 c:\users\agusb\onedrive\desktop\lab\funciones.h
+
+1699561264 source:c:\users\agusb\onedrive\desktop\lab\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1699570895 source:c:\users\gusta\desktop\nueva carpeta\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1699569963 c:\users\gusta\desktop\nueva carpeta\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699569963 c:\users\gusta\desktop\nueva carpeta\quinientos\funciones.h
+
+1699569963 source:c:\users\gusta\desktop\nueva carpeta\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	"funciones.h"
+
+1700197637 source:c:\users\gusta\desktop\nueva carpeta (2)\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1700192626 c:\users\gusta\desktop\nueva carpeta (2)\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700192626 c:\users\gusta\desktop\nueva carpeta (2)\quinientos\funciones.h
+
+1700192626 source:c:\users\gusta\desktop\nueva carpeta (2)\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1699718004 source:c:\users\gusta\desktop\nueva carpeta (2)\gustavo 10-11\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1699574083 c:\users\gusta\desktop\nueva carpeta (2)\gustavo 10-11\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699718015 c:\users\gusta\desktop\nueva carpeta (2)\gustavo 10-11\quinientos\funciones.h
+
+1699718511 source:c:\users\gusta\desktop\nueva carpeta (2)\gustavo 10-11\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+	"funciones.h"
+
+1699908976 source:c:\users\agusb\onedrive\desktop\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1699574084 c:\users\agusb\onedrive\desktop\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699907046 c:\users\agusb\onedrive\desktop\quinientos\funciones.h
+
+1699907403 source:c:\users\agusb\onedrive\desktop\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1700189675 source:c:\users\agusb\onedrive\desktop\quinientoss\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1700176212 c:\users\agusb\onedrive\desktop\quinientoss\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700176212 c:\users\agusb\onedrive\desktop\quinientoss\funciones.h
+
+1700176212 source:c:\users\agusb\onedrive\desktop\quinientoss\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1700226910 source:c:\users\agusb\onedrive\desktop\quinientos ultima version\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1700200525 c:\users\agusb\onedrive\desktop\quinientos ultima version\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700200525 c:\users\agusb\onedrive\desktop\quinientos ultima version\quinientos\funciones.h
+
+1700200525 source:c:\users\agusb\onedrive\desktop\quinientos ultima version\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1700227527 source:c:\users\gusta\desktop\17-11\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1700227527 c:\users\gusta\desktop\17-11\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700227527 c:\users\gusta\desktop\17-11\quinientos\funciones.h
+
+1700228935 source:c:\users\gusta\desktop\17-11\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1700230678 source:c:\users\agusb\onedrive\desktop\quinientos ultima\quinientos\funciones.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+
+1700229338 c:\users\agusb\onedrive\desktop\quinientos ultima\quinientos\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1700229338 c:\users\agusb\onedrive\desktop\quinientos ultima\quinientos\funciones.h
+
+1700229338 source:c:\users\agusb\onedrive\desktop\quinientos ultima\quinientos\main.cpp
+	<iostream>
+	"rlutil.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
